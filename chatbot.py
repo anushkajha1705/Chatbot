@@ -1,4 +1,4 @@
-print("🤖 Hello! I am a chatbot.")
+print("Hello! I am a chatbot.")
 print("Type 'bye' to exit.\n")
 
 while True:
@@ -8,17 +8,17 @@ while True:
         print("Bot: Hello! How can I help you?")
     
     elif "how are you" in user_input:
-        print("Bot: I am fine 😊 What about you?")
+        print("Bot: I am fine What about you?")
     
     elif "your name" in user_input:
         print("Bot: I am a simple Python chatbot.")
     
     elif "who made you" in user_input:
-     print("Bot: I was created by Anushka Jha using Python 🐍")
+     print("Bot: I was created by Anushka Jha using Python ")
 
     
     elif user_input == "bye":
-        print("Bot: Goodbye! Have a nice day 👋")
+        print("Bot: Goodbye! Have a nice day")
         break
     
     else:
