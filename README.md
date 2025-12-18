@@ -1,25 +1,36 @@
 # Simple Python Chatbot
 
-A beginner-friendly **rule-based chatbot** built using **pure Python**.  
-This project demonstrates how basic `if-elif-else` logic can be used to create a simple conversational chatbot.
+A simple rule-based chatbot built using Python.  
+Designed as a beginner-friendly project to understand basic conversational logic.
+
+---
+
+## About the Project
+
+This is a terminal-based chatbot created using pure Python.  
+It uses basic if-elif-else conditions to respond to user input and is ideal for beginners starting with Python.
 
 ---
 
 ## Features
-- Simple text-based conversation
-- Rule-based responses using conditional statements
-- Beginner-friendly and easy to understand
-- No external libraries required
-- Runs directly in the terminal
+
+- Rule-based chatbot using conditional statements  
+- Text-based interaction in the terminal  
+- Easy to read and modify code  
+- No external libraries required  
+- Perfect for beginners  
 
 ---
 
 ## Technologies Used
-- Python 
+
+- Python 🐍
 
 ---
 
 ## How to Run
-1. Clone the repository
+
 ```bash
 git clone https://github.com/your-username/simple-python-chatbot.git
+cd simple-python-chatbot
+python chatbot.py
