@@ -32,5 +32,5 @@ It uses basic if-elif-else conditions to respond to user input and is ideal for 
 
 ```bash
 git clone https://github.com/anushkajha1705/Chatbot
-cd simple-python-chatbot
+cd chatbot
 python chatbot.py
