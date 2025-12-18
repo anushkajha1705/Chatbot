@@ -24,7 +24,7 @@ It uses basic if-elif-else conditions to respond to user input and is ideal for 
 
 ## Technologies Used
 
-- Python 🐍
+- Python 
 
 ---
 
